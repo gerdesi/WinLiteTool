@@ -12,3 +12,5 @@ Then copy the directory path.
 Start Start.bat with administrator.
 After completion, a WindowsLite.iso will be generated.
 enjoy!@!
+#####################################################
+You can install Windows Origin under VMware and use Get_AppxpackageName.bat to get AppxpackageName to DIY your list
